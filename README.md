@@ -6,5 +6,6 @@
 <br>
 <p>- HTML</p>
 <p>- CSS</p>
+<p>- JavaScript
 <br>
 <img src="https://github.com/LuisFernandoLuz/Projeto-Calculadora/blob/2209e93b1473882fe0c562ebcdf438457bdae53d/img/foto%20calculadora.png">
